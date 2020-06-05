@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{3E7DACE4-BB99-49A2-AB90-931D01FFC0A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAzureFunctionApp", "MyAzureFunctionApp\MyAzureFunctionApp.csproj", "{015EE5FC-D238-4C1F-9EB3-0AF4080BE991}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionApp", "AzureFunctionApp\AzureFunctionApp.csproj", "{015EE5FC-D238-4C1F-9EB3-0AF4080BE991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
