@@ -12,6 +12,7 @@ namespace WebApplication {
         public void ConfigureServices(IServiceCollection services) {
             services.AddControllers();
             RegisterServices(services);
+            services.AddHostedService<MyBackgroundService>();
 
         }
         
