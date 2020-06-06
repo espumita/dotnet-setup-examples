@@ -7,3 +7,4 @@ Thease examples use the dotnet dependency injection engine: [Microsoft.Extension
 * Net Core Worker service as Windows Service
 * WPF Net Core APP
 * Azure Function APP
+* Azure WebJobs APP
